@@ -14,7 +14,7 @@ print back original string with character count
 
  */
 
-package ex02;
+package exercise02;
 
 import java.util.Scanner;
 
